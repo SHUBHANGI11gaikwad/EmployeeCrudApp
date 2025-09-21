@@ -28,7 +28,7 @@ Follow these steps to set up and run the application locally on your machine.
 
 1.  **Clone or Download the Repository:**
     ```bash
-    git clone [your-repo-link]
+    git clone [repo-link]
     cd EmployeeCrudApp
     ```
 
